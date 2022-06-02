@@ -1,0 +1,11 @@
+{
+    "name": "heroku_logs",
+    "version": "1.0.0",
+    "description": "Programa para tener una consola con los logs de Heroku",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Vera",
+    "license": "ISC"
+}
